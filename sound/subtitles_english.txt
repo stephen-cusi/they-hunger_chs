@@ -1,0 +1,728 @@
+﻿!TH_PILOT1
+{
+Hey, come here. 
+[len:004 color:000 100 000]
+}
+!TH_PILOT1M
+{
+Hey! You! Come here!
+[len:003 color:000 100 000]
+}
+!TH_PILOT2
+{
+Come on. I need your help. We're going to have to work together to get out of this mess.\n
+I can fly us out of here, but you'll have to activate the flight control system while I start the engine.\n
+I can't access it from this side.\n
+You must find a way through the asylum complex to the control room and then meet me at the hangar. Hurry!
+[len:018 color:000 100 000]
+}
+
+!TH_FRANKBOT1
+{
+I can't believe you let him get away.
+[len:005 color:100 100 100]
+}
+!TH_FRANKBOT2
+{
+Yes, it does seem that we have both suffered some mental degradation.\n
+However, be sure that even around us of an outsider will suffer retribution for the destruction of my person.
+[len:015 color:100 100 100]
+}
+!TH_FRANKBOT3
+{
+Now. The freshness. We have to work. What?! He's right there. Sunday. 
+[len:009 color:100 100 100]
+}
+
+!TH_ENDMESS
+{
+This is a staging ground.\n
+There is no salvation.\n
+We must burn in flames to destroy this place.\n
+A fiery place must take this place.
+[len:025 color:255 000 000]
+}
+!TH_FRANKRUN
+{
+Run!
+[len:002 color:255 255 255]
+}
+!TH_SCREAM1
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_SCREAM2
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_SCREAM3
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_SCREAM4
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_SCREAM5
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_SCREAM6
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_SCREAM7
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_NEWSCREAM1
+{
+(尖叫声)
+[len:003 color:255 000 000]
+}
+!TH_NEWSCREAM2
+{
+(尖叫声)
+[len:007 color:255 000 000]
+}
+
+!TH_TEMPLE1
+{
+哦，我的天哪！幸好你不是僵尸。\n
+你知道我们该怎么出去吗？
+[len:007 color:255 255 255]
+}
+
+!TH_TEMPLE2
+{
+等等，我看见有车来了。
+[len:003 color:255 255 255]
+}
+
+!TH_TEMPLE3
+{
+谢天谢地啊！我们得救了。
+[len:003 color:255 255 255]
+}
+
+!TH_MESSAGE1
+{
+你。。。你赶紧联系当地执法部门。他们电话也打不通，通讯也被中断了。\n
+但是镇上有一个广播站。如果你能找到去那里的路，也许你可以通过电台来寻求帮助。\n
+当地警官也许也会帮助你。
+[len:034 color:255 255 255]
+}
+!TH_RADIO1
+{
+您正在收听的是BMRF电台，现在播报突发新闻.\n
+据报道，整个地区都出现了未知的大气现象.\n
+气象学家一直无法确定奇怪的大气污染的来源,\n
+有关后续消息我们本台会持续报道，现在请继续收听本节目.
+[len:022 color:255 255 255]
+}
+!TH_SHERIFF1
+{
+他刚刚自己自我了断了，小的们。
+[len:003 color:000 255 000]
+}
+!TH_SHERIFF2
+{
+干得好，小的们，现在这就是你们今天的伙食。
+[len:005 color:000 255 000]
+}
+!TH_SHERIFF3
+{
+你叫什么，傻逼？
+[len:002 color:000 255 000]
+}
+!TH_SHERIFF4
+{
+Get that chicken shit bastard!
+[len:003 color:000 255 000]
+}
+!TH_SHERIFF5
+{
+I'll give a shit if you're wired, Doc. That chicken shit bastard ain't getting out. And my men block all the town exits.\n
+I'll keep him out your damn hair. Just you keep your end of the deal. 
+[len:013 color:000 255 000]
+}
+!TH_SHERIFF6
+{
+Your damn ass up, Doc. We ain't got time for this bullshit.\n
+The outside is going to be on our asses like stank on shit for long. 
+[len:009 color:000 255 000]
+}
+!TH_SHERIFF7
+{
+Don't you run from me, boy!
+[len:002 color:255 000 000]
+}
+!TH_SHERIFF8
+{
+I'm the law around here now, boy.
+[len:006 color:000 255 000]
+}
+!TH_SHERIFF9
+{
+Boy, consider your ass bag branded and barbecued and molasses. 
+[len:006 color:000 255 000]
+}
+!TH_SHERIFF10
+{
+You rap bastard son of a Yankee and a bitch.\n
+You might have got the doc but I only stick your ass. 
+[len:008 color:000 255 000]
+}
+!TH_SHERIFF11
+{
+Damn the outsiders! Cover me!
+[len:003 color:000 255 000]
+}
+!TH_SHERIFF12
+{
+You ramp bastard. I'll catch that wireless on bench.\n
+At least I had sense enough to leave when the fire alarm went off.\n
+Some doc you are. Ain't even got any common sense. And now look at you.\n
+You look like one of them fangs is sewed together. 
+[len:018 color:000 255 000]
+}
+!TH_SHERIFF13
+{
+Man.\n
+The need for the prisoners has expired.\n
+Kill all!
+[len:018 color:000 255 000]
+}
+!TH_SHERIFF14
+{
+Shit ain't. Son of a bitch.\n
+Get that bastard and bring me the head of the God who let him in. 
+[len:009 color:000 255 000]
+}
+!TH_SHERIFF15
+{
+We're going to go forth as an army to kill the Ambassador? Outsiders.\n
+They are the cause of our hunger. They dine as pigs and expect us to mold her in the grave.\n
+Now we shall go forth and feast upon the flesh of the living and coat the world in a sea of blood.\n
+We are the dead and they cannot defeat us. We are never growing. And more of the law it. And we shall satiate our hunger.\n
+We shall gorge ourselves on the flesh of this damned earth and send all the living chicken shits to eternal damnation. 
+[len:038 color:000 255 000]
+}
+!TH_SHERIFF16
+{
+I hear you asking,\n
+why do we hunger?\n
+I say we hunger for conquest over the Levin.\n
+We hung up on victory. 
+[len:013 color:000 255 000]
+}
+!TH_SHERIFF17
+{
+Haha, you're strapped like a dead, hunting club.\n
+Now you're gonna pay for screwing with this place.\n
+Take them away, boys. 
+[len:010 color:000 255 000]
+}
+
+// franklin
+
+!TH_FRANKLIN1
+{
+The experiment shall not be interrupted.\n
+Soon we will have many more allies to follow us.\n
+Just a few more tests. 
+[len:011 color:255 255 255]
+}
+!TH_FRANKLIN2
+{
+You're too late to stop me.\n
+Now you're about to witness the historical moment!\n
+They called me crazy,\n
+but I will prove now that they were wrong!\n
+I have found the secret of life and death! Throw that switch, Rockwoods.
+[len:021 color:255 255 255]
+}
+!TH_FRANKLIN3
+{
+Oh, God. What are you doing?\n
+But there will be others. You can't stop us. 
+[len:009 color:255 255 255]
+}
+!TH_FRANKLIN4
+{
+How did you... Stand back. Stand back!
+[len:006 color:255 255 255]
+}
+!TH_FRANKLIN7
+{
+You ruined my plans. But I'll be back. You can't kill me. 
+[len:007 color:255 255 255]
+}
+
+// alfred
+!TH_ALFRED1
+{
+Thank God you're normal.\n
+Everybody else here seems to be out of their mind!
+[len:005 color:255 165 000]
+}
+!TH_ALFRED2
+{
+I'm Alfred, Dr. Franklin's assistant.\n
+We were working in the lab downstairs and we found something in the city water.\n
+Come on, I'll show. 
+[len:009 color:255 165 000]
+}
+!TH_ALFRED3
+{
+It's something that can bring anyone alive or dead to some intermediate state of half life.\n
+But after that, Dr. Franklin starts to act strangely.\n
+Have you met him yet?\n
+I'm afraid that he's now infected, too. 
+[len:015 color:255 165 000]
+}
+!TH_ALFRED4
+{
+You go on. I'll wait right here. 
+[len:003 color:255 165 000]
+}
+!TH_ALFRED5
+{
+Oh, God. Poor Dr. Franklin. He was a good man.\n
+Just trying to find out what was causing all the zombies.\n
+But in the end, he just made things worse. 
+[len:011 color:255 165 000]
+}
+!TH_ALFUSE
+{
+A...Alright...?
+[len:003 color:255 165 000]
+}
+!TH_ALFUNUSE
+{
+I'm not coming with you!
+[len:002 color:255 165 000]
+}
+
+// others
+!TH_CIV1
+{
+What are...!
+[len:002 color:255 255 255]
+}
+!TH_HELPHEAD
+{
+Help me...
+[len:007 color:255 255 255]
+}
+!TH_ENDMESS
+{
+
+[len:026 color:255 255 255]
+}
+!TH_PILOT1
+{
+
+[len:004 color:255 255 255]
+}
+!TH_PILOT1M
+{
+
+[len:003 color:255 255 255]
+}
+!TH_PILOT2
+{
+
+[len:018 color:255 255 255]
+}
+!TH_HGRUNT1
+{
+Time to die, zombie!
+[len:004 color:000 255 000]
+}
+!TH_HGRUNT2
+{
+Die, zombie!
+[len:004 color:000 255 000]
+}
+!TH_SHOOTME
+{
+Listen... Just do it for me! Oh shoot me now!\n
+I don't want to be lose to those things!
+[len:015 color:000 000 255]
+}
+
+//Barney
+
+!BA_OK0
+{
+好的，我会掩护你。
+[len:003 color:000 000 255]
+}
+!BA_OK1
+{
+好，如果我们合作的话，也许可以活久一点。
+[len:003 color:000 000 255]
+}
+!BA_OK2
+{
+让我们离开这里吧。
+[len:003 color:000 000 255]
+}
+!BA_OK3
+{
+是啊，我们要合作团结力量大。
+[len:003 color:000 000 255]
+}
+!BA_OK4
+{
+好啊，反正我不想一个人死掉
+[len:003 color:000 000 255]
+}
+!BA_OK5
+{
+好，我们走。
+[len:003 color:000 000 255]
+}
+!BA_OK6
+{
+Roger that, let's run like hell!
+[len:003 color:000 000 255]
+}
+
+!BA_WAIT0
+{
+OK, I'll wait here and help anyone else who comes by.
+[len:003 color:000 000 255]
+}
+!BA_WAIT1
+{
+You go on without me.
+[len:003 color:000 000 255]
+}
+!BA_WAIT2
+{
+OK I will secure this area.
+[len:003 color:000 000 255]
+}
+!BA_WAIT3
+{
+Yeah, I'll wait here.
+[len:003 color:000 000 255]
+}
+!BA_WAIT4
+{
+See you later.
+[len:003 color:000 000 255]
+}
+!BA_WAIT5
+{
+I'll stay here and guard this area.
+[len:003 color:000 000 255]
+}
+
+!BA_HELLO0
+{
+Hello!
+[len:003 color:000 000 255]
+}
+!BA_HELLO1
+{
+Hello, sir!
+[len:003 color:000 000 255]
+}
+!BA_HELLO2
+{
+Sir.
+[len:003 color:000 000 255]
+}
+!BA_HELLO3
+{
+Sir.
+[len:003 color:000 000 255]
+}
+
+!BA_STARE0
+{
+Yup.
+[len:003 color:000 000 255]
+}
+!BA_STARE1
+{
+Yes, sir.
+[len:003 color:000 000 255]
+}
+!BA_STARE2
+{
+Hello, sir!
+[len:003 color:000 000 255]
+}
+!BA_STARE3
+{
+Sir.
+[len:003 color:000 000 255]
+}
+
+!BA_ATTACK0
+{
+Stand back!
+[len:003 color:000 000 255]
+}
+!BA_ATTACK1
+{
+What the hell is this?
+[len:003 color:000 000 255]
+}
+!BA_ATTACK2
+{
+Die, you blood sucker!
+[len:003 color:000 000 255]
+}
+!BA_ATTACK3
+{
+Aim for the head, if you mind it.
+[len:003 color:000 000 255]
+}
+
+!BA_HEAR0
+{
+Hey, I hear something.
+[len:003 color:000 000 255]
+}
+!BA_HEAR1
+{
+It doesn't sound great.
+[len:003 color:000 000 255]
+}
+!BA_HEAR2
+{
+Man, that sounds bad.
+[len:003 color:000 000 255]
+}
+
+!BA_SMELL0
+{
+Whew, something die down here.
+[len:003 color:000 000 255]
+}
+!BA_SMELL1
+{
+What is that smell?
+[len:003 color:000 000 255]
+}
+!BA_SMELL2
+{
+Ugh, what's that stench?
+[len:003 color:000 000 255]
+}
+
+//Scientist
+!SC_TENT 
+{
+不！不！把他弄开他，弄开他！
+[len:005 color:000 000 255]
+}
+!SC_PHELLO0
+{
+   Ah, hello, Gordon Freeman. It's good to see you.
+[len:001 color:185 185 185]
+}
+
+!SC_PHELLO3
+{
+   Greetings.
+[len:001 color:185 185 185]
+}
+
+!SC_PHELLO5
+{
+   Hello there.
+[len:002 color:185 185 185]
+}
+
+!CL_POK0
+{
+   Sorry but I have a mess to clean up here.
+[len:002 color:145 145 145]
+}
+
+!CL_POK1
+{
+   Meet me at the lunch break, I'll buy you a tesla taco.
+[len:003 color:145 145 145]
+}
+
+!CL_POK2
+{
+   Now's not the best time.
+[len:001 color:145 145 145]
+}
+
+!CL_POK3
+{
+   Can you pass my mop over there? Thanks.
+[len:002 color:145 145 145]
+}
+
+!HG_GREN0
+{
+   GRENADE!
+[len:001 color:095 127 063]
+}
+
+!HG_GREN1
+{
+   TAKE COVER!
+[len:002 color:095 127 063]
+}
+
+!HG_GREN2
+{
+   OH SHIT!
+[len:002 color:095 127 063]
+}
+
+!HG_GREN3
+{
+   GET DOWN!
+[len:002 color:095 127 063]
+}
+
+!HG_GREN4
+{
+   OH GOD!
+[len:002 color:095 127 063]
+}
+
+!HG_GREN5
+{
+   NO!
+[len:001 color:095 127 063]
+}
+
+!HG_GREN6
+{
+   MOVE!
+[len:001 color:095 127 063]
+}
+
+!HG_ALERT0
+{
+   SQUAD, WE GOT FREEMAN!
+[len:002 color:095 127 063]
+}
+
+!HG_ALERT1
+{
+   TARGET!
+[len:001 color:095 127 063]
+}
+
+!HG_ALERT2
+{
+   MOVEMENT!
+[len:001 color:095 127 063]
+}
+
+!HG_ALERT3
+{
+   SHIT, WE GOT HOSTILES!
+[len:002 color:095 127 063]
+}
+
+!HG_ALERT4
+{
+   SQUAD, GET FREEMAN!
+[len:002 color:095 127 063]
+}
+
+!HG_ALERT5
+{
+   SQUAD, NEUTRALIZE FREEMAN!
+[len:002 color:095 127 063]
+}
+
+!HG_ALERT6
+{
+   MOVE IN!
+[len:002 color:095 127 063]
+}
+
+!HG_MONST0
+{
+   BOGIES MY SECTOR!
+[len:002 color:095 127 063]
+}
+
+!HG_MONST1
+{
+   WE GOT BOGIES!
+[len:002 color:095 127 063]
+}
+
+!HG_MONST2
+{
+   ALIEN ALERT!
+[len:002 color:095 127 063]
+}
+
+!HG_MONST3
+{
+   ALIEN MOVEMENT!
+[len:002 color:095 127 063]
+}
+
+!HG_COVER0
+{
+   TAKE COVER!
+[len:002 color:095 127 063]
+}
+
+!HG_COVER1
+{
+   I NEED SUPPRESSING FIRE!
+[len:003 color:095 127 063]
+}
+
+!HG_COVER2
+{
+   WE NEED BACKUP!
+[len:002 color:095 127 063]
+}
+
+!HG_COVER3
+{
+   TOO HOT HERE!
+[len:002 color:095 127 063]
+}
+
+!HG_COVER4
+{
+   FALL OUT!
+[len:002 color:095 127 063]
+}
+
+!HG_COVER5
+{
+   CLEAR THIS AREA!
+[len:002 color:095 127 063]
+}
+
+!HG_COVER6
+{
+   GOD DAMN!
+[len:002 color:095 127 063]
+}
+
+!HG_COVER7
+{
+   COVER FIRE!
+[len:002 color:095 127 063]
+}
