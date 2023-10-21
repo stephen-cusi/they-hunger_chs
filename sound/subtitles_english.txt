@@ -1,4 +1,4 @@
-﻿!TH_PILOT1
+!TH_PILOT1
 {
 Hey, come here. 
 [len:004 color:000 100 000]
@@ -114,7 +114,7 @@ Run!
 
 !TH_MESSAGE1
 {
-你。。。你赶紧联系当地执法部门。他们电话也打不通，通讯也被中断了。\n
+你...你赶紧联系当地执法部门。他们电话也打不通，通讯也被中断了。\n
 但是镇上有一个广播站。如果你能找到去那里的路，也许你可以通过电台来寻求帮助。\n
 当地警官也许也会帮助你。
 [len:034 color:255 255 255]
@@ -144,53 +144,53 @@ Run!
 }
 !TH_SHERIFF4
 {
-Get that chicken shit bastard!
+抓住那个胆小鬼！
 [len:003 color:000 255 000]
 }
 !TH_SHERIFF5
 {
-I'll give a shit if you're wired, Doc. That chicken shit bastard ain't getting out. And my men block all the town exits.\n
-I'll keep him out your damn hair. Just you keep your end of the deal. 
+我才不管你是否连线，博士。那个胆小如鸡屎的混蛋逃不了出去。我的人封锁了城镇的所有出口。 \n 
+我会让他远离你该死的烦恼。只要你遵守协议的那一端就行了。
 [len:013 color:000 255 000]
 }
 !TH_SHERIFF6
 {
-Your damn ass up, Doc. We ain't got time for this bullshit.\n
-The outside is going to be on our asses like stank on shit for long. 
+闭嘴，博士。我们没时间闲扯。\n 
+外面的人会像臭屎一样紧追不舍的。
 [len:009 color:000 255 000]
 }
 !TH_SHERIFF7
 {
-Don't you run from me, boy!
+别想从我这里逃跑，小子！
 [len:002 color:255 000 000]
 }
 !TH_SHERIFF8
 {
-I'm the law around here now, boy.
+现在，我是这里的法律，小子。
 [len:006 color:000 255 000]
 }
 !TH_SHERIFF9
 {
-Boy, consider your ass bag branded and barbecued and molasses. 
+小子，你要准备好被烙印、烧烤和浸入糖蜜了。
 [len:006 color:000 255 000]
 }
 !TH_SHERIFF10
 {
-You rap bastard son of a Yankee and a bitch.\n
-You might have got the doc but I only stick your ass. 
+你这个该死的混蛋，一个北方佬和婊子的私生子。/n 
+你或许抓到了那个医生，但我只会把你的屁股插得生活不能自理。
 [len:008 color:000 255 000]
 }
 !TH_SHERIFF11
 {
-Damn the outsiders! Cover me!
+可恶的外人！给我掩护！
 [len:003 color:000 255 000]
 }
-!TH_SHERIFF12
+!
 {
-You ramp bastard. I'll catch that wireless on bench.\n
-At least I had sense enough to leave when the fire alarm went off.\n
-Some doc you are. Ain't even got any common sense. And now look at you.\n
-You look like one of them fangs is sewed together. 
+你这个该死的无赖。/n 
+我会抓住那个带无线电的家伙。/n
+至少我还有足够的理智，在火警响起时离开了。/n
+你这个所谓的医生，连常识都没有。现在看看你自己。 你看起来就像是被缝合在一起的那些尖牙之一。 
 [len:018 color:000 255 000]
 }
 !TH_SHERIFF13
