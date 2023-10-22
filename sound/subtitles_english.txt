@@ -294,31 +294,31 @@ Run!
 }
 !TH_ALFRED5
 {
-Oh, God. Poor Dr. Franklin. He was a good man.\n
-Just trying to find out what was causing all the zombies.\n
-But in the end, he just made things worse. 
+哦，天啊。可怜的弗兰克林博士。他是个好人。 /n
+只是试图找出是什么引起了所有的僵尸。 /n
+但最终，他只是让事情变得更糟。
 [len:011 color:255 165 000]
 }
 !TH_ALFUSE
 {
-A...Alright...?
+好...好吧...？
 [len:003 color:255 165 000]
 }
 !TH_ALFUNUSE
 {
-I'm not coming with you!
+我不跟你走！ 
 [len:002 color:255 165 000]
 }
 
 // others
 !TH_CIV1
 {
-What are...!
+发生了什么...！
 [len:002 color:255 255 255]
 }
 !TH_HELPHEAD
 {
-Help me...
+救...救我...
 [len:007 color:255 255 255]
 }
 !TH_ENDMESS
@@ -343,18 +343,18 @@ Help me...
 }
 !TH_HGRUNT1
 {
-Time to die, zombie!
+该死的，僵尸，你的时间到了！
 [len:004 color:000 255 000]
 }
 !TH_HGRUNT2
 {
-Die, zombie!
+死吧，僵尸！
 [len:004 color:000 255 000]
 }
 !TH_SHOOTME
 {
-Listen... Just do it for me! Oh shoot me now!\n
-I don't want to be lose to those things!
+听着...就这么做吧！快给我开枪！ /n
+我不想输给那些东西！
 [len:015 color:000 000 255]
 }
 
