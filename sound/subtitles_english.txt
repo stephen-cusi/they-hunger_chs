@@ -392,70 +392,70 @@ Run!
 }
 !BA_OK6
 {
-Roger that, let's run like hell!
+收到，我们快点跑！
 [len:003 color:000 000 255]
 }
 
 !BA_WAIT0
 {
-OK, I'll wait here and help anyone else who comes by.
+好的，我会在这里等待并帮助其他经过的人。
 [len:003 color:000 000 255]
 }
 !BA_WAIT1
 {
-You go on without me.
+你们继续前进，我留在这里。
 [len:003 color:000 000 255]
 }
 !BA_WAIT2
 {
-OK I will secure this area.
+好的，我会确保这个区域安全。
 [len:003 color:000 000 255]
 }
 !BA_WAIT3
 {
-Yeah, I'll wait here.
+是的，我会在这里等着。
 [len:003 color:000 000 255]
 }
 !BA_WAIT4
 {
-See you later.
+再见。
 [len:003 color:000 000 255]
 }
 !BA_WAIT5
 {
-I'll stay here and guard this area.
+我会留在这里守卫这个区域。
 [len:003 color:000 000 255]
 }
 
 !BA_HELLO0
 {
-Hello!
+你好！
 [len:003 color:000 000 255]
 }
 !BA_HELLO1
 {
-Hello, sir!
+你好，先生！
 [len:003 color:000 000 255]
 }
 !BA_HELLO2
 {
-Sir.
+先生。
 [len:003 color:000 000 255]
 }
 !BA_HELLO3
 {
-Sir.
+先生。
 [len:003 color:000 000 255]
 }
 
 !BA_STARE0
 {
-Yup.
+是的。
 [len:003 color:000 000 255]
 }
 !BA_STARE1
 {
-Yes, sir.
+是的，先生。
 [len:003 color:000 000 255]
 }
 !BA_STARE2
