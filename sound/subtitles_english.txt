@@ -195,39 +195,38 @@ Run!
 }
 !TH_SHERIFF13
 {
-Man.\n
-The need for the prisoners has expired.\n
-Kill all!
+伙计 \n
+对囚犯的需求已经过期了。 杀死所有人！
 [len:018 color:000 255 000]
 }
 !TH_SHERIFF14
 {
-Shit ain't. Son of a bitch.\n
-Get that bastard and bring me the head of the God who let him in. 
+该死的，混账东西。 /n
+抓住那个混蛋，把他的头带给我，那个放任他进来的上帝。  
 [len:009 color:000 255 000]
 }
 !TH_SHERIFF15
 {
-We're going to go forth as an army to kill the Ambassador? Outsiders.\n
-They are the cause of our hunger. They dine as pigs and expect us to mold her in the grave.\n
-Now we shall go forth and feast upon the flesh of the living and coat the world in a sea of blood.\n
-We are the dead and they cannot defeat us. We are never growing. And more of the law it. And we shall satiate our hunger.\n
-We shall gorge ourselves on the flesh of this damned earth and send all the living chicken shits to eternal damnation. 
+我们要以军队的姿态前去杀死大使？外人。 /n
+他们是我们饥饿的原因。他们像猪一样大吃特吃，却指望我们把她埋入坟墓。 /n
+现在我们要走出去，吞噬活人的肉，把世界染成一片血海。 /n
+我们是亡者，他们无法打败我们。我们永远不会停止成长。更多的法律也无济于事。 我们将满足自己的饥渴。 我们将狼吞虎咽地吃下这个该死的地球，/n
+将所有胆小鬼送入永恒的地狱。 
 [len:038 color:000 255 000]
 }
 !TH_SHERIFF16
 {
-I hear you asking,\n
-why do we hunger?\n
-I say we hunger for conquest over the Levin.\n
-We hung up on victory. 
+我听到你在问 /n
+为什么我们感到饥饿？ /n
+我说我们渴望征服Levin。 /n
+我们渴望胜利。
 [len:013 color:000 255 000]
 }
 !TH_SHERIFF17
 {
-Haha, you're strapped like a dead, hunting club.\n
-Now you're gonna pay for screwing with this place.\n
-Take them away, boys. 
+哈哈，你像一个死去的狩猎俱乐部一样束手无策。 /n
+现在你要为招惹这个地方付出代价了。 /n
+把他们带走，伙计们。
 [len:010 color:000 255 000]
 }
 
@@ -235,62 +234,62 @@ Take them away, boys.
 
 !TH_FRANKLIN1
 {
-The experiment shall not be interrupted.\n
-Soon we will have many more allies to follow us.\n
-Just a few more tests. 
+实验不能被打断。 /n
+很快我们将有更多盟友跟随我们。 /n
+只需要再进行几次测试。
 [len:011 color:255 255 255]
 }
 !TH_FRANKLIN2
 {
-You're too late to stop me.\n
-Now you're about to witness the historical moment!\n
-They called me crazy,\n
-but I will prove now that they were wrong!\n
-I have found the secret of life and death! Throw that switch, Rockwoods.
+你来得太迟了，无法阻止我。 /n
+现在你将见证历史时刻！ /n
+他们称我为疯子， /n
+但我现在将证明他们错了！ /n
+我已经找到了生与死的秘密！拉动那个开关，Rockwoods。
 [len:021 color:255 255 255]
 }
 !TH_FRANKLIN3
 {
-Oh, God. What are you doing?\n
-But there will be others. You can't stop us. 
+哦，天啊。你在做什么？ /n
+但会有其他人的。你无法阻止我们。
 [len:009 color:255 255 255]
 }
 !TH_FRANKLIN4
 {
-How did you... Stand back. Stand back!
+你是怎么……退后，退后！
 [len:006 color:255 255 255]
 }
 !TH_FRANKLIN7
 {
-You ruined my plans. But I'll be back. You can't kill me. 
+你毁了我的计划。但我会回来的。你无法杀死我。 
 [len:007 color:255 255 255]
 }
 
 // alfred
 !TH_ALFRED1
 {
-Thank God you're normal.\n
-Everybody else here seems to be out of their mind!
+谢天谢地，你还正常。 /n
+这里的其他人似乎都疯了！
 [len:005 color:255 165 000]
 }
 !TH_ALFRED2
 {
-I'm Alfred, Dr. Franklin's assistant.\n
-We were working in the lab downstairs and we found something in the city water.\n
-Come on, I'll show. 
+我是阿尔弗雷德，弗兰克林博士的助手。 /n
+我们在楼下的实验室里工作，发现了城市供水中的一些东西。 /n
+跟我来，我会给你看。 
 [len:009 color:255 165 000]
 }
 !TH_ALFRED3
 {
-It's something that can bring anyone alive or dead to some intermediate state of half life.\n
-But after that, Dr. Franklin starts to act strangely.\n
-Have you met him yet?\n
-I'm afraid that he's now infected, too. 
+这是一种可以将任何人无论活着还是死去，带到某种半生不死状态的东西。 /n
+但之后，弗兰克林博士开始表现得很奇怪。 /n
+你见过他吗？ /n
+恐怕他现在也被感染了。
 [len:015 color:255 165 000]
 }
 !TH_ALFRED4
 {
-You go on. I'll wait right here. 
+你继续前进。我会在这里等着。
 [len:003 color:255 165 000]
 }
 !TH_ALFRED5
