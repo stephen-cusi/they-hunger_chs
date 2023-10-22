@@ -3,9 +3,11 @@
 
 # 致谢名单
 ##### 爷无观察官方帐号
+[爷无观察官方帐号哔哩哔哩首页](https://b23.tv/MrF4JMA)
 ##### deck_lllot
-
  [deck_lllot的哔哩哔哩首页](https://b23.tv/gFMk1RG)
  
 ### 汉化主持人 ：爷无观察官方账号
 ### 汉化参与人 ：deck_lllot
+
+`如有不正，欢迎指出`
